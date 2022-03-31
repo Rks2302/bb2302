@@ -86,9 +86,9 @@ session_start();
         <div class="admins col-sm-12 col-md-12 col-lg-12">
 
             <div class="col-sm-12 col-md-6 col-lg-3">
-                <h4>Mohammad Iftekhar Uddin Tanvir</h4>
-                <p>B. Sc. Engg.(EEE)<br>[2013-2017]<br>University of Chittagong</p>
-                <p>iftekharuddintanvir@gmail.com</p>
+                <h4>Bhavesh Sakla</h4>
+                <br>
+                <p>bhaveshsakla79@gmail.com </p>
                 <br>
             </div>
             
