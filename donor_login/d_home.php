@@ -100,7 +100,7 @@ if(!isset($_SESSION['dname'])){
             <!-- copyright -->
             <div class="col-sm-12 col-md-12 col-lg-12">
                 <hr>
-                <center><strong>Copyright | 2018</strong></center>
+                <center><strong>Copyright | 2022</strong></center>
             </div>
         </center>
 
