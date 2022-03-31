@@ -140,7 +140,7 @@
                     getblood@abc.com <br><br>
 
                     <strong>Address:</strong><br>
-                    Chittagong, Bangladesh
+                    Mumbai,India
                 </p>    
                 
             </div>
@@ -149,7 +149,7 @@
             <!-- copyright -->
             <div class="col-sm-12 col-md-12 col-lg-12">
                 <hr>
-                <center><strong>Copyright | 2018</strong></center>
+                <center><strong>Copyright | 2022</strong></center>
             </div>
 
 
