@@ -93,25 +93,20 @@ session_start();
             </div>
             
             <div class="col-sm-12 col-md-6 col-lg-3">
-                <h4>Shaibal Das</h4>
-                <p>B. Sc. Engg.(EEE)<br>[2013-2017]<br>University of Chittagong</p>
-                <p>shaibal016@gmail.com</p>
+                <h4>Piyush Sabhandasani</h4>
+                <br>
+                <p>piyushsabhandasani6@gmail.com </p>
                 <br>
             </div>
             
             <div class="col-sm-12 col-md-6 col-lg-3">
-                <h4>Shah Mokarrom Hossain Polash</h4>
-                <p>B. Sc. Engg.(EEE)<br>[2013-2017]<br>University of Chittagong</p>
-                <p>aristocratpolash@gmail.com</p>
+                <h4>Rahul Sharma</h4>
+                <br>
+                <p>rahulksharma2302@gmail.com</p>
                 <br>
             </div>
 
-            <div class="col-sm-12 col-md-6 col-lg-3">
-                <h4>Santa Roy</h4>
-                <p>B. Sc. Engg.(EEE)<br>[2013-2017]<br>University of Chittagong</p>
-                <p>santaroy41@gmail.com</p>
-                <br>
-            </div>
+            
         </div>
     </center>
 
